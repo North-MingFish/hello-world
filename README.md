@@ -1,3 +1,2 @@
 # hello-world
-Hi humans!
-I like Java.
+Just another repository
